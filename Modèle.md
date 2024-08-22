@@ -5,10 +5,11 @@ Les sources d'information (vidéos, blogs, documentation, etc.) consultées. Soy
 
 Pour chaque source, vous devez donner les informations suivantes:
 ### Titre (de la page, de l'article, de la vidéo)
-### URL (pour y accéder)
-### Sujet (de quoi ça parle)
-### Notes (vos notes, les infos utiles dans la source, un résumé)
-### Questions (les questions sur le contenu, les trucs pas clairs, etc.)
+Le titre doit inclure l'URL pour y accéder
+#### Sujet (de quoi ça parle)
+#### Notes (vos notes, les infos qui vous sont utiles dans la source)
+Mettez ici les informations que vous avez besoin de retenir. Ne copiez pas des grandes sections des pages: mettez le minimum que vous avez besoin.
+#### Questions (les questions sur le contenu, les trucs pas clairs, etc.)
 
 ## Exercices faits
 La liste des exercices du module que vous avez faits, les erreurs que vous avez faites (s'il y en a), votre auto-évaluation
