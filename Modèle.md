@@ -3,7 +3,9 @@
 ## Documents consultés
 Les sources d'information (vidéos, blogs, documentation, etc.) consultées. Soyez le plus précis possible.
 
-Pour chaque source, vous devez donner le titre et l'URL pour y accéder et (optionnellement) vos notes ou commentaires
+Pour chaque source, vous devez donner le titre et l'URL pour y accéder et (optionnellement) vos notes ou commentaires.
+
+SVP séparez chaque source avec une ligne.
 
 ## Exercices faits
 La liste des exercices du module que vous avez faits, les erreurs que vous avez faites (s'il y en a), votre auto-évaluation
